@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  age: 1
+  gender: 1
+  birth: 2019-04-18
+  joined_date: 2019-04-18
+  grade: 1
+  department: MyString
+  address: MyString
+  tel: MyString
+
+two:
+  name: MyString
+  age: 1
+  gender: 1
+  birth: 2019-04-18
+  joined_date: 2019-04-18
+  grade: 1
+  department: MyString
+  address: MyString
+  tel: MyString
